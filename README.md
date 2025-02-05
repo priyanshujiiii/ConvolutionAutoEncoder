@@ -30,25 +30,15 @@ This project implements a **Convolutional Autoencoder** using **TensorFlow** to 
 Clone the repository and install dependencies:  
 ```bash
 git clone https://github.com/your-username/convolutional-autoencoder.git  
-cd convolutional-autoencoder  
-pip install -r requirements.txt  
+cd convolutional-autoencoder    
 ```
-Run the training script:  
-```bash
-python train.py  
-```
-Test the model:  
-```bash
-python test.py --image path/to/your/image.jpg  
-```
+
 
 ## 📌 Sample Output  
 | Input (Grayscale) | Output (Colorized) |  
 |-------------------|------------------|  
 | ![Gray](path/to/grayscale-sample.jpg) | ![Colorized](path/to/colorized-sample.jpg) |  
 
-## 🤝 Contributing  
-Contributions are welcome! Feel free to fork the repo and submit a PR.  
 
 ## 📝 License  
 This project is licensed under **MIT License**.  

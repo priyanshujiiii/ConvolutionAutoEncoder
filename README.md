@@ -29,7 +29,7 @@ This project implements a **Convolutional Autoencoder** using **TensorFlow** to 
 ## 🛠 Usage  
 Clone the repository and install dependencies:  
 ```bash
-git clone https://github.com/your-username/convolutional-autoencoder.git  
+git clone https://github.com/priyanshujiiii/ConvolutionAutoEncoder.git
 cd convolutional-autoencoder    
 ```
 

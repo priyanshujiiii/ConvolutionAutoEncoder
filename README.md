@@ -30,7 +30,7 @@ This project implements a **Convolutional Autoencoder** using **TensorFlow** to 
 Clone the repository and install dependencies:  
 ```bash
 git clone https://github.com/priyanshujiiii/ConvolutionAutoEncoder.git
-cd convolutional-autoencoder    
+cd ConvolutionAutoEncoder
 ```
 
 

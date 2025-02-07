@@ -16,6 +16,7 @@ This project implements a **Convolutional Autoencoder** using **TensorFlow** to 
 ## 🏗 Model Architecture  
 - **Encoder** 🏛: Compresses grayscale images into latent feature maps  
 - **Decoder** 🎨: Reconstructs colorized images from learned representations  
+![image](https://github.com/user-attachments/assets/a195baaa-5e1a-41ad-b45b-7b13604f2794)
 
 ## 📂 Dataset  
 - Supports datasets like **CIFAR-10, ImageNet, or custom datasets**  
